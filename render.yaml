@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: vless-ws
+    env: docker
+    plan: free
+    region: frankfurt # Singapur da olabilir
